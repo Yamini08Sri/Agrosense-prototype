@@ -1,9 +1,9 @@
 # Agrosense-prototype
 AgroSense Prototype
+
 AgroSense is a comprehensive digital platform designed to leverage IoT and AI to provide smallholder farmers with real-time data and actionable insights. The platform integrates soil sensors, weather forecasting, and market analytics to optimize agricultural practices, reduce input costs, and improve crop yields. Additionally, AgroSense offers training modules and community support to ensure the effective adoption of sustainable practices.
 
-##Team Members                                                                                                                                                                                                   
-Santhosh S                                                                                                                                                                                                        
+##Team Members                                                                                                                                                             Santhosh S                                                                                                                                        
 Yaminisri B
 
 ##Project Overview
